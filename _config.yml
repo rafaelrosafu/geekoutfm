@@ -41,7 +41,7 @@ owner:
   name: "Geek Out Podcast"
   avatar: bio-photo.jpg
   email: contato@geekout.fm
-  disqus-shortname:
+  disqus-shortname: geekoutfm
   twitter: geekoutfm
   facebook: geekoutfm
   google:
