@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # iTunes specific configs
 itunes_summary: "Geek Out - O podcast para geeks conectad@s"
 itunes_url: 
-itunes_big_image: "/images/geekout-logo-1400x1400.png"
+itunes_big_image: "/images/geekout-logo-1400x1400.jpg"
 itunes_default_image: "/images/geekout_round_300x300.png"
 base_url: http://geekout.fm
 
