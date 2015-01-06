@@ -1,16 +1,16 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
-logo: site-logo.png
-search: true
+title: Geek Out
+locale: pt_BR
+description: O podcast para geeks conectad@s
+logo: geekout_round_300x300.png
+search: false
 url: 
 
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:year/:month/:day/:title.html
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -29,21 +29,21 @@ kramdown:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
+# iTunes specific configs
+itunes_summary: "Geek Out - O podcast para geeks conectad@s"
+itunes_url: 
+itunes_big_image: "/images/geekout-logo-1400x1400.png"
+itunes_default_image: "/images/geekout_round_300x300.png"
+base_url: http://geekout.fm
 
 # Site owner
 owner:
-  name: Your Name
+  name: "Geek Out Podcast"
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: contato@geekout.fm
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
+  twitter: geekoutfm
+  facebook: geekoutfm
   google:
     plus: #username
     analytics:

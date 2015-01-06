@@ -1,16 +1,17 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Home
+  url: /
 
-- title: Articles
-  url: /articles/
+- title: Alda Rocha
+  url: /mjcoffeeholick/
 
-- title: Blog
-  url: /blog/
+- title: Rodrigo Franco
+  url: /caffo/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Rafael Rosa Fu
+  url: /rafaelrosafu/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Facebook
+  url: https://www.facebook.com/geekoutfm
+  external: true
