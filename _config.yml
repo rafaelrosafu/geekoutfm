@@ -30,10 +30,14 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "bin"]
 
 # iTunes specific configs
-itunes_summary: "Geek Out - O podcast para geeks conectad@s"
-itunes_url: 
-itunes_big_image: "/images/geekout-logo-1400x1400.jpg"
-itunes_default_image: "/images/geekout_round_300x300.png"
+itunes:
+  subtitle: "O podcast para geeks conectad@s"
+  summary: "Seu podcast semanal sobre cultura geek, com dicas de livros, filmes, séries e lugares geeks, tudo para você se divertir e aprender"
+  url: 
+  big_image: "/images/geekout-logo-1400x1400.jpg"
+  default_image: "/images/geekout_round_300x300.png"
+  language: pt-br
+  category: Technology
 base_url: http://geekout.fm
 
 # Site owner

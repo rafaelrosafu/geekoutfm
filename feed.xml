@@ -7,26 +7,26 @@ layout: none
   <atom:link href="{{ site.base_url }}/feed.xml" rel="self" type="application/rss+xml" />
   <title>{{ site.title }}</title>
   <link>{{ site.url }}</link>
-  <language>en-us</language>
-  <copyright>&#x2117; &amp; &#xA9; 2014-2015 {{ site.title }}</copyright>
-  <itunes:subtitle><![CDATA[{{site.itunes_summary}}]]></itunes:subtitle>
+  <language>{{ site.itunes.language }}</language>
+  <copyright>&#x2117; &amp; &#xA9; 2015 {{ site.title }}</copyright>
+  <itunes:subtitle><![CDATA[{{site.itunes.subtitle}}]]></itunes:subtitle>
   <itunes:author>{{ site.owner.name }}</itunes:author>
-  <itunes:summary><![CDATA[{{site.itunes_summary}}]]></itunes:summary>
+  <itunes:summary><![CDATA[{{site.itunes.summary}}]]></itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <description><![CDATA[{{site.itunes_summary}}]]></description>
+  <description><![CDATA[{{site.itunes.summary}}]]></description>
   <itunes:owner>
     <itunes:name>{{ site.owner.name }}</itunes:name>
     <itunes:email>{{ site.owner.email }}</itunes:email>
   </itunes:owner>
-  <itunes:image href="{{ site.base_url }}{{ site.itunes_big_image }}" />
-  <itunes:category text="Technology">
+  <itunes:image href="{{ site.base_url }}{{ site.itunes.big_image }}" />
+  <itunes:category text="{{ site.itunes.category }}">
   </itunes:category>
 {% for post in site.posts %}
   {% unless post.invisible %}
   <item>
     <title>{{ post.title | cdata_escape }}</title>
     <description><![CDATA[{{ post.content | markdownify }}]]></description>
-    <itunes:image href="{{ site.base_url }}{{ site.itunes_default_image }}" />
+    <itunes:image href="{{ site.base_url }}{{ site.itunes.default_image }}" />
     <itunes:author>{{ site.owner.name }}</itunes:author>
     <itunes:subtitle><![CDATA[{{ post.content | xml_escape | truncate: 250 }}]]></itunes:subtitle>
     <itunes:summary><![CDATA[{{ post.content | xml_escape | truncate: 250 }}]]></itunes:summary>
