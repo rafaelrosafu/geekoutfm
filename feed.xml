@@ -28,8 +28,8 @@ layout: none
     <description><![CDATA[{{ post.content | markdownify }}]]></description>
     <itunes:image href="{{ site.base_url }}{{ site.itunes.default_image }}" />
     <itunes:author>{{ site.owner.name }}</itunes:author>
-    <itunes:subtitle><![CDATA[{{ post.content | xml_escape | truncate: 250 }}]]></itunes:subtitle>
-    <itunes:summary><![CDATA[{{ post.content | xml_escape | truncate: 250 }}]]></itunes:summary>
+    <itunes:subtitle><![CDATA[{{ post.summary | xml_escape | truncate: 250 }}]]></itunes:subtitle>
+    <itunes:summary><![CDATA[{{ post.summary | xml_escape | truncate: 250 }}]]></itunes:summary>
     <enclosure url="{{ post.mp3_url }}" length="{{ post.mp3_length }}" type="audio/mpeg" />
     <guid>{{ post.mp3_url }}</guid>
     <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
