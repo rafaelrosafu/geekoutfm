@@ -37,7 +37,7 @@ itunes:
   big_image: "/images/geekout-logo-1400x1400.jpg"
   default_image: "/images/geekout_round_300x300.png"
   language: pt-br
-  category: Technology
+  category: "Society &amp; Culture"
 base_url: http://geekout.fm
 
 # Site owner
