@@ -5,7 +5,7 @@ locale: pt_BR
 description: O podcast para geeks conectad@s
 logo: geekout_round_300x300.png
 search: false
-url: 
+url:
 
 
 # Jekyll configuration
@@ -33,7 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 itunes:
   subtitle: "O podcast para geeks conectad@s"
   summary: "Seu podcast semanal sobre cultura geek, com dicas de livros, filmes, séries e lugares geeks, tudo para você se divertir e aprender"
-  url: 
+  url: https://itunes.apple.com/br/podcast/geek-out/id956387481
   big_image: "/images/geekout-logo-1400x1400.jpg"
   default_image: "/images/geekout_round_300x300.png"
   language: pt-br
@@ -53,5 +53,5 @@ owner:
     analytics: UA-58262329-1
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:
