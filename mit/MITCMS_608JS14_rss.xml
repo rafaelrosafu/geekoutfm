@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-  <atom:link href="http://rafaelrosafu.info/MITCMS.608JS14_rss.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="http://geekout.fm/mit/MITCMS_608JS14_rss.xml" rel="self" type="application/rss+xml" />
   <title>MIT OpenCourseware - Game Design - Philip B. Tan, Richard Eberhardt - CMS.608 - Spring 2014</title>
   <link>http://ocw.mit.edu/courses/comparative-media-studies-writing/cms-608-game-design-spring-2014/index.htm</link>
   <language>en-US</language>
