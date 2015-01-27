@@ -11,3 +11,4 @@ Quer recomendar algum geek out na sua cidade? Mande sua dica por e-mail para [co
 ## 2015
 * [GIBI Cultura Geek - bar em São Paulo](http://www.gibiculturageek.com/)
 * [Ludus Luderia - bar com jogos em São Paulo](http://www.ludusluderia.com.br/)
+* [Curto Cafe](https://www.facebook.com/curtocafe) - cafeteria no Rio de Janeiro, Galeria Menezes Cortes
