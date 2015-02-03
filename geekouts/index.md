@@ -12,3 +12,4 @@ Quer recomendar algum geek out na sua cidade? Mande sua dica por e-mail para [co
 * [GIBI Cultura Geek - bar em São Paulo](http://www.gibiculturageek.com/)
 * [Ludus Luderia - bar com jogos em São Paulo](http://www.ludusluderia.com.br/)
 * [Curto Cafe](https://www.facebook.com/curtocafe) - cafeteria no Rio de Janeiro, Galeria Menezes Cortes
+* [Exploratorium](http://exploratorium.edu/) - museu de ciência em San Francisco, California
