@@ -17,3 +17,4 @@ Quer recomendar algum geek out na sua cidade? Mande sua dica por e-mail para [co
 * [Museu das Invenções - São Paulo](http://www.museudasinvencoes.com.br/)
 * [Sogo Plaza Shopping - Liberdade - São Paulo](https://foursquare.com/v/sogo-plaza-shopping/4b646342f964a5203caf2ae3)
 * [Itiriki Bakery - Liberdade - São Paulo](http://bakeryitiriki.com/)
+* [Sofa Café - São Paulo](http://sofacafe.com.br/)
