@@ -19,3 +19,4 @@ Quer recomendar algum geek out na sua cidade? Mande sua dica por e-mail para [co
 * [Itiriki Bakery - Liberdade - São Paulo](http://bakeryitiriki.com/)
 * [Sofa Café - São Paulo](http://sofacafe.com.br/)
 * [Rock'n'Roll Burger - São Paulo](http://www.rocknrollburger.com.br/)
+* [Livraria da Vila - São Paulo](http://www.livrariadavila.com.br/)
