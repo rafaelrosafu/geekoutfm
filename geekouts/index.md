@@ -21,3 +21,4 @@ Quer recomendar algum geek out na sua cidade? Mande sua dica por e-mail para [co
 * [Rock'n'Roll Burger - São Paulo](http://www.rocknrollburger.com.br/)
 * [Livraria da Vila - São Paulo](http://www.livrariadavila.com.br/)
 * [Ground Kontrol Classic Arcade](http://groundkontrol.com/) - Portland, Oregon - USA
+* [devbeers - em São Paulo, Rio de Janeiro e Belo Horizonte](http://www.devbeers.io/cities/)
