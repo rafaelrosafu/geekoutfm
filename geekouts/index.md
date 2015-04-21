@@ -23,3 +23,4 @@ Quer recomendar algum geek out na sua cidade? Mande sua dica por e-mail para [co
 * [Ground Kontrol Classic Arcade - Portland, Oregon - USA](http://groundkontrol.com/)
 * [devbeers - em São Paulo, Rio de Janeiro e Belo Horizonte](http://www.devbeers.io/cities/)
 * [Madame Satã (aka Madame Underground Club) - São Paulo](http://www.madameclub.com.br/)
+* [Cafuné Cafeteria - Rio de Janeiro](http://www.cafune.com.br/)
