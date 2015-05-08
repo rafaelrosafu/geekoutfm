@@ -25,3 +25,4 @@ Quer recomendar algum geek out na sua cidade? Mande sua dica por e-mail para [co
 * [Madame Satã (aka Madame Underground Club) - São Paulo](http://www.madameclub.com.br/)
 * [Cafuné Cafeteria - Rio de Janeiro](http://www.cafune.com.br/)
 * [Red Box - Rio de Janeiro](http://redboxeditora.com.br/loja/en/)
+* [Gibiteca Henfil - São Paulo](http://www.centrocultural.sp.gov.br/Biblioteca_Gibiteca_Henfil.html)
