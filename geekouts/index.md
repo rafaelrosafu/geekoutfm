@@ -26,3 +26,4 @@ Quer recomendar algum geek out na sua cidade? Mande sua dica por e-mail para [co
 * [Cafuné Cafeteria - Rio de Janeiro](http://www.cafune.com.br/)
 * [Red Box - Rio de Janeiro](http://redboxeditora.com.br/loja/en/)
 * [Gibiteca Henfil - São Paulo](http://www.centrocultural.sp.gov.br/Biblioteca_Gibiteca_Henfil.html)
+* [Beluga Café - São Paulo](http://www.belugasp.com/)
